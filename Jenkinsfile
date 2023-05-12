@@ -1,4 +1,4 @@
-def gitUrl = 'https://github.com/imavroukakis/gatling-scale-out'
+def gitUrl = 'https://github.com/marcelorum/gatling-scale-out'
 def gitCredentials = 'Github'
 def testGroups = [:]
 def numberOfTestNodes = 5
